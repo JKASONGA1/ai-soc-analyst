@@ -1,0 +1,15 @@
+[
+  {
+    "incident_id": "8ac46e5c-b83e-419b-b3d4-e3a3841643e9",
+    "threat_classification": "Web Application Attack",
+    "risk_score": 50,
+    "business_impact": "Medium",
+    "recommended_actions": [
+      "Block source IP at firewall or WAF",
+      "Review web server and application logs",
+      "Validate input sanitization and patch application",
+      "Monitor for additional attack attempts"
+    ],
+    "summary": "AI analysis identified a SQL Injection originating from unknown with 2 correlated alerts. Risk score assessed at 50, indicating Medium business impact."
+  }
+]
