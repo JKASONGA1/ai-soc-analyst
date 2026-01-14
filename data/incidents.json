@@ -1,0 +1,33 @@
+[
+  {
+    "incident_id": "8ac46e5c-b83e-419b-b3d4-e3a3841643e9",
+    "source_ip": "unknown",
+    "attack_type": "SQL Injection",
+    "first_seen": "2026-01-11T01:30:17.850086+00:00",
+    "last_seen": "2026-01-11T01:30:17.850112+00:00",
+    "alert_count": 2,
+    "severity": "Medium",
+    "alerts": [
+      {
+        "event_id": "1e05426a-0072-4b13-b864-c151fd3c5517",
+        "timestamp": "2026-01-11T01:30:17.850086+00:00",
+        "source_ip": "unknown",
+        "destination": "unknown",
+        "attack_type": "SQL Injection",
+        "severity": "High",
+        "raw_signature": "unknown",
+        "confidence": 0.85
+      },
+      {
+        "event_id": "2f12237e-7d8f-4da2-a2c2-c15aa2d42183",
+        "timestamp": "2026-01-11T01:30:17.850112+00:00",
+        "source_ip": "unknown",
+        "destination": "unknown",
+        "attack_type": "SQL Injection",
+        "severity": "High",
+        "raw_signature": "unknown",
+        "confidence": 0.85
+      }
+    ]
+  }
+]
